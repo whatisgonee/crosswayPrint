@@ -1,0 +1,110 @@
+<div id="date">
+	Crossway — London<br>Sunday, July 24, 1927. Issue #001
+</div>
+
+<div id="columns">
+	<div class="column" style="padding-top: 0;">
+		<h2 class="subheading">Mysterious crossroads appears</h2>
+		<hr class="small">
+		<p class="description">Shocked police and angry citizens</p>
+		<hr class="small">
+		<p>Last week a mysterious intersection appeared on the streets of London. Police baffled. The authorities have opened an investigation into this case, however, the locals say that the crossway has always been there.<br>"What do they mean that it didn't exist before?" — says one of the citizens, — "I've lived on this street all my life, and I can assure you, this crossroads has always been here! The police is just going crazy". To the question "What is the name of the intersection?", Londoners mumble something indistinct and say that they "have forgotten it for some reason". Along with the crossing, a few buildings have materialised out of nowhere. One of the buildings, is a small, brick structure, with four windows and a chimney. Looks a little bit out of place for Central London, and strangely enough, resembles our office, here at Crossway Print. The building is owned by a newspaper agency, which name is held away from public for confidential reasons. We've tried to take an interview with one of the workers, but the place was filled with policemen, just like ours. Looks like those guys are in some big trouble.<br>"We still have yet to uncover how this entire thing was built in one night. We have a few theories, but we need to find some more evidence to support them" — says the spokesman of the police.<br>Because of the police activity near the crossroads, various complaints have been filed by the local residents. People complain about noise, constant interrogations and crowds in the streets. The rumour of the mysterious intersection "infected" London, and people from all around the city are coming to visit the crossing. The authorities are trying to restrict the entrance to the crossroads, but the public attention to this, at first glance, normal looking crossing is only growing larger. On this Sunday, large crowds are heading down to the interesection to hear the police's verdict on this case. Luckily, one of our correspondents managed to get the speech written down.<br>"Dear Londoners. Today, the City of London Police has officially closed the case on this crossway. We've gathered all the information we could and made our decision. Here's what we think happened on the night of July 17, 1927. Around twelve o'clock at night, a group of unknown men, possibly related to the newspaper agency on this crossing, have done an incredible, but illegal, work. Somehow, they managed to dismantle three buildings in the span of a few hours, and then build a road and a pavement on their place. The group also attached a small building with a chimney, that you can see to your left. Unfortunately, there were no witnesses, so we have no information how the vandals looked like. The crossway is not planned for removal and will be given a name soon." — says the deputy of the Head of the City of London Police.<p>
+	</div>
+	<hr>
+	<div class="column">
+		<h2 class="subheading">Pigeons spying on people</h2>
+		<hr class="small">
+		<p class="description">Local conspirologists shoot down birds</p>
+		<hr class="small">
+		<p>This week, a group of local activist have started shooting down birds, because they suspect that they might be spying on them. In total, the group, who now call themselves 'Birds Aren't Real', have shot down 413 birds and counting.<br>"They're so suspicious." — says a member of the group, — "I mean, why the hell are they sitting on my roof ALL the time? What are they doing up there?"<br>Recently, the group started protesting against fowls in London. The vastness of the protest is only growing bigger with more people joining the 'Birds Aren't Real'. The group is getting so large, that the authorities fear that these people might switch to violence towards birds and other city fauna. The local government decided to restrict the group from going to protests or promoting their ideology in public places, which only fueled the theory that birds might be government's secret agents.<br>"They just fear us." — says the leader of the group, who preferred to stay anonymous, — "They realise that the public won't take their lies anymore, that's why they're trying to mute us.".<br>Because of its popularity, the 'Birds Aren't Real' group is also attaining enemies. Recently, local ecologist and biologists have teamed up and formed an opposite force, trying to stop the crazy madmen from killing off fowls. They call themselves 'Birds ARE real' and are quickly gaining popularity and may soon overcome the 'Birds Aren't Real' in members.<br>"It's completely irresponsible to just allow this lunatics to kill such precious animals", — says Mister Frakfut, a well established scientist and a member of the 'Birds ARE real', — "If we won't stop them, they might cause a disbalance in our local ecosystem, which will have an impact on the whole world!".<br>Crossway Print is trying to be neutral towards this escalating conflict and will supply you with objective, fresh and truthful news.<br>Good night London.</p>
+	</div>
+	<hr>
+	<div class="column">
+		<h2 class="subheading">Miscellaneous</h2>
+		<hr class="small">
+		<p class="description">World, sport and other news</p>
+		<hr class="small">
+		<ul>
+			<li>A kidney was found on 9 Highfield Road, still alive and kicking</li>
+			<li>Highly educated squirrel scares drunken man when asks for a way to the library</li>
+			<li>Norwegian scientists discover that they actually live in Sweden</li>
+			<li>A cricket match has been cancelled due to players falling asleep</li>
+		</ul>
+	</div>
+	<hr>
+	<div class="column">
+		<div class="ad">
+			<h1>Floor. Oil. Clothes.</h1>
+			<p>For</p>
+			<h2>Only 2.99£.</h2>
+			<p>At</p>
+			<h2>John's Oiling, flooring and clothing Co.</h2>
+			<p>They say we'll be out of business soon, but you can prove them wrong.</p>
+			<h5>143 Bubourgeoisie Street, Smith's Block.</h5>
+		</div>
+		<hr>
+		<div class="ad">
+			<h1>Carratraca</h1>
+			<h3>Mineral water</h3>
+			<p class="left">Is unsurpassed as a pleasant and cooling aperient. One or two glasses of Carratraca every morning before breakfast, or on an empty stomach during the hot weather, will keep your system cool and healthy. <span style="font-size:10px">(Side effects include Habitual Constipation, Derangement of the Stomach and Bowels, Chronic Inflammation of the Kidneys, Gravel, Gout, Rheumatism (especially the chronic forms), Scrofula, Skin Affections of all kinds, Dyspepsia, Heartburn, and Acidity.)</span></p>
+		</div>
+		<hr>
+		<div class="ad">
+			<h1>THE BEST OUT!</h1>
+			<h2>The Western Sewing Machine</h2>
+			<ul>
+				<li>You can sew</li>
+				<li>You can run</li>
+				<li>But you can't hide</li>
+			</ul>
+			<p class="left"><strong>KILL</strong> all of your competetors and sew on the fly with The Western Sewing Machine.</p>
+			<h2>ONLY 30£</h2>
+		</div>
+		<hr>
+		<div class="ad">
+			<h1>Gift Box</h1>
+			<h2>For Children</h2>
+			<p>Suprise your child for their birthday with a boxing match!</p>
+			<span style="font-size:10px">(The company does not take responsibiltiy for child's injuries)</span>
+			<h2>Missis Johan's Box Co.</h2>
+			<h5>At 175 Dundas Street</h5>
+		</div>
+		<hr>
+		<div class="ad">
+			<h1>Christmas Goods!</h1>
+			<h2>For Smokers</h2>
+			<p>Surprise your husband, or wife, with a "time bomb"!</p>
+			<h2>Smoking Pipes</h2>
+			<h2>Tobacco Stands</h2>
+			<h2>Fancy Cigar Cases</h2>
+			<p>And more at</p>
+			<h2>White & Tremble's Cigar Shop</h2>
+		</div>
+		<hr>
+		<div class="ad">
+			<h1>BIRDS AREN'T REAL</h1>
+			<h2>Join us and fight against government lies!</h2>
+			<h5>75, Silent Majority St., the dark alley</h5>
+		</div>
+		<hr>
+		<div class="ad">
+			<h2>LOST AND FOUND</h2>
+			<hr class="small">
+			<p class="left">LOST — LAST EVENING — A wallet with 165£. The finder will be rewarded with 165£ and a free wallet.</p>
+			<hr class="small">
+			<p class="left">LOST — ON FRIDAY MORNING — A kidney. The returner will be punished.</p>
+			<hr class="small">
+			<p class="left">FOUND — THIS THURSDAY NOON — A necklace engraved with threatening messages.</p>
+		</div>
+		<hr>
+		<div class="ad">
+			<h2>CRIMINALS</h2>
+			<hr class="small">
+			<p class="left">WANTED — MR. TREDFOR — For poisoning fish in the aquarium at Corner Restaurant.</p>
+			<hr class="small">
+			<p class="left">WANTED — MRS. MILROW — For breaking into and stealing three chairs from the dwelling house of Robert Cowan Kellet.</p>
+			<hr class="small">
+			<p class="left">WANTED — UNKNOWN — For running around naked near Richmond Park.</p>
+		</div>
+	</div>
+</div>
