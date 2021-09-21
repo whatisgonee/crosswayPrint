@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<div id="main">
+			<div id="navbar">
+				<button id="troublereading" onclick="troublereading()">I have trouble reading</button>
+				<a href="about-us">Who are we?</a>
+				<a href="issues">Archive</a>
+				<a href="help-us">Help wanted</a>
+			</div>
+			<h1 id="header">
+				Crossway Print
+			</h1>
+
+			
+		</div>
+
+		<script>
+			var urlParams = new URLSearchParams(window.location.search);
+			
+			fetch(urlParams.get('issue'));
+			
+			function fetch(file) {
+				var xmlHttp = new XMLHttpRequest();
+
+				if(!file) {
+					xmlHttp.open("GET", "https://api.github.com/repos/whatisgonee/crosswayPrint/contents/issues", false);
+					xmlHttp.send(null);
+
+					var lastIssue = JSON.parse(xmlHttp.responseText).length;
+					xmlHttp.open( "GET", "https://raw.githubusercontent.com/whatisgonee/crosswayPrint/main/issues/issue" + lastIssue + ".txt", false );
+				} else {
+					xmlHttp.open( "GET", "https://raw.githubusercontent.com/whatisgonee/crosswayPrint/main/issues/issue" + file + ".txt", false );
+				}
+
+				xmlHttp.send( null );
+				if(xmlHttp.status == "404") {
+					document.getElementById("main").innerHTML += "<h1>404: Not Found</h1><hr><p>The isse is not here. Have you tried searching for it in the Epping Forest at night?";
+					document.title = "404: Not Found"
+				} else {
+					document.getElementById("main").innerHTML += xmlHttp.responseText;
+				}
+			}
+
+
+
+			var readerFriendly = false;
+
+			function troublereading() {
+				readerFriendly = !readerFriendly;
+				if(readerFriendly) {
+					document.getElementsByTagName("body")[0].style.fontFamily='sans';
+					document.getElementById("troublereading").style.fontFamily='sans';
+					document.getElementById("troublereading").innerHTML="Nevermind";
+				} else {
+					document.getElementsByTagName("body")[0].style.fontFamily='IM Fell English SC, serif';
+					document.getElementById("troublereading").style.fontFamily='IM Fell English SC, serif';
+					document.getElementById("troublereading").innerHTML="I have trouble reading";
+				}
+			}
+		</script>
+	</body>
+</html>
