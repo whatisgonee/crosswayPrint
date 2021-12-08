@@ -7,7 +7,6 @@
 	<body>
 		<div id="main">
 			<div id="navbar">
-				<button id="troublereading" onclick="troublereading()">I have trouble reading</button>
 				<a href="about-us">Who are we?</a>
 				<a href="issues">Archive</a>
 				<a href="help-us">Help wanted</a>
@@ -43,23 +42,6 @@
 					document.title = "404: Not Found"
 				} else {
 					document.getElementById("main").innerHTML += xmlHttp.responseText;
-				}
-			}
-
-
-
-			var readerFriendly = false;
-
-			function troublereading() {
-				readerFriendly = !readerFriendly;
-				if(readerFriendly) {
-					document.getElementsByTagName("body")[0].style.fontFamily='sans';
-					document.getElementById("troublereading").style.fontFamily='sans';
-					document.getElementById("troublereading").innerHTML="Nevermind";
-				} else {
-					document.getElementsByTagName("body")[0].style.fontFamily='IM Fell English SC, serif';
-					document.getElementById("troublereading").style.fontFamily='IM Fell English SC, serif';
-					document.getElementById("troublereading").innerHTML="I have trouble reading";
 				}
 			}
 		</script>
