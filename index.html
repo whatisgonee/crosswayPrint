@@ -41,8 +41,40 @@
 					document.getElementById("main").innerHTML += "<h1>404: Not Found</h1><hr><p>The isse is not here. Have you tried searching for it in the Epping Forest at night?";
 					document.title = "404: Not Found"
 				} else {
-					document.getElementById("main").innerHTML += xmlHttp.responseText;
+					document.getElementById("main").innerHTML += parse(xmlHttp.responseText);
 				}
+			}
+			
+			function parse(input) {
+				html = ``
+
+				html += `<p id="issue">${input.match(/Issue #[0-9]+/)[0]}</p>`
+
+				html += `<div id="date">${input.match(/\[DATE\]([\s\S]*?)\[\/DATE\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>')}</div>`
+
+				var stories = input.match(/\[STORY\]([\s\S]*?)\[\/STORY\]/g)
+
+				html += `<div id="columns">`
+
+				for(let i = 0; i < stories.length; i++) {
+					html += `<h2 class="subheading">${stories[i].match(/{(.*)}/)[1]}</h2><p>${getStory(stories[i])}</p>`
+					if(i == 2) {
+						html += `<div id="intervention">${(input.match(/\[INTER\]([\s\S]*?)\[\/INTER\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>'))}</div>`
+					}
+				}
+
+				html += `</div>`
+
+				return html
+			}
+			
+			function getStory(story) {
+				var storyContent = story.split('\n')
+				storyContent.splice(0, 2)
+				storyContent.splice(storyContent.length-1, storyContent.length)
+
+				storyContent = storyContent.join('\n')
+				return storyContent.replace(/(?:\r\n|\r|\n)/g, '<br>')
 			}
 		</script>
 	</body>
