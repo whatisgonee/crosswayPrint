@@ -1,74 +1,77 @@
-Issue #01:
-
-[DESC]
-The Department of Housing of City of London tries to number the houses on Cross Street. Plus, the robbery at Milhow's shop has an unexpected turns of events.
-[/DESC]
+Issue #02:
 
 [DATE]Cross Street — London
-Sunday, July 24, 1927[/DATE]
+Sunday, January 3, 1928[/DATE]
+
+[DESC]<span><i>"The winds will change. The sun will rise<br>The doom is near. The end is nigh"</i></span><p><i>"Wow, I had this weird dream that we published an unfinished issue with a totally different lore of the world and it also had an ugly style, like ew, who made it? I'm sure that would never happen in real life."</i><br>— Editor</p>[/DESC]
 
 
 [STORY]
-{Department of Housing Pt. 1}
-Last Monday, the Department of Housing of City of London declared that they, finally, will officially number all the houses on Cross Street. At last we will be able to order food into our office, instead of using The Times' address.
-The Department said that, "Despite Cross Street following non-Euclidian geometry, for legal reasons, it had to be done at some point". The numbering process will begin as soon as all of the houses on street are be counted, which may take a while, considering that no one really knows where the Cross Street begins or ends. For this task, the Department has sent an intern, who, on his first day on the job, will have to count all the houses on our street. Poor guy. We will keep you updated on the situation.
+{The Weather Report}
+Is it windy today? It's been so long since we've left the office that we don't even know the weather of today. But what about the future? Let's hear the weather of tomorrow.
+As the storms of uncertainty and incertitude are quickly covering the horizon, the Sun slowly fades into the distance, marking the end of another day. The east winds will only grow stronger, as the winter approaches short with its changes and will lead you in the right direction whether you want it or not. The temperatures drop low, so be careful the next time you go outside — the cold might get you this time if you're not careful enough.
+Our weather balloons hover high, high up in the sky, over the houses of London Town, seeing far into the future, whether it's bright or not. But today their vision is clouded by the storm. The storm of changeability. This is the season of chances and bold decisions, so prepare yourself for some unexpected events in your and the district's lives. 
+Some might take this as an opportunity. A chance to find love or end an old relationship, to speak with your boss about your salary, to tell a friend your final goodbye.
+Others will take this as a warning. An omen telling us to hide, to seek shelter from the storm, to hold on to your loved ones, afraid to lose them, to stay in your house, away from the cold.
+But the cold will always find its way. Through a chimney or a window, or through the cracks in your roof and walls, or through a small hole in the attic. It will always find you.
+One should not take this as a threat or an invitation, for the cold is neither a friend nor an enemy. It is a force. A force that is upon us all. Whether to greet it with open arms or hide from it in your warmest blanket is up to you. This has been the Weather Report.
 [/STORY]
 
 
 [STORY]
-{Robbery Pt. 1}
-As we all know, our beloved Mr. Milhow nearly had a heart attack, last Tuesday, when he discovered that while he was on his vacation, his shop was robbed. He reported that several items were stolen, as well as his front, and back, doors. And even though the police have started an investigation on this case, they are still trying to find their way onto the Cross Street. We, on the other hand, decided to help our friend, and started our own private investigation.
-It was a rainy, Wednesday evening. Everything was black and white, since I was colour blind. I threw my cigar onto the road and headed back to my office. There, on the desk was lying a single file. Milhow. That poor old man. His shop was robbed yesterday, and I got to find that criminal.
-I hang my coat and started reading the case description. No clues. The only way I could find who the criminal is, was by driving to the crime scene, where I will have an internal monologue, after which I will come up with a brilliant conclusion and then smile, mysteriously, and point to the criminal, who will immediately try to run, but who gets stopped by the random customer, walking into the shop. After this, I will explain to everyone, the way I deductively solved this case with ease.
-I put on my coat, and headed to Milhow's shop.
+{Night sky}
+It's long past the sunset and most of the citizens have long gone to bed. Only the occasional passing car or a bark of a dog would fill the empty and hollow streets of the district. Fewer and fewer windows were lit, as more people went for their night's rest.
+You were walking home from your long day of work and you knew that despite the area being pretty safe, it wouldn't be a good idea to wander around the town at this hour. Yet, you decided to stay. You tried to discard that thought at first, but you mind insisted. After all, why not? It's been ages since you last had a night stroll. The weather that day was nice, with a light breeze, refreshing you from the stuffy atmosphere of your office.
+You took a deep breath and looked around. You frequently passed this cobbled alley on your way home, but you never noticed its beauty. The road was twisty, with elegant light posts here and there, illuminating the narrow street which was surrounded by low houses with exquisite windows. The walls were grey and dull, but they mixed quite well with bright, though dusty, rooftops. 
+You noticed a beautiful flower in a pot on one of the balconies and wondered who might live there. Maybe an old lady who sells flowers at the local shop or a lonely, young woman, waiting for her love. 
+As you continued your path along the street you looked up at the night sky and you saw millions of stars, dotted like a sophisticated art on a dark, blue sky. They shined brightly onto the roofs and houses, onto the streets and roads and parks of London. You felt as if you could touch them. If only you were closer. If only you could fly.
+"What a ridiculous thought," you said to yourself, and yet, you couldn't let it go. What if? You looked at the red rooftops of the houses and quickly made your way to one of the buildings. Without hesitation, you started climbing the fire escape, leaping over a few steps, you made it to the top in no time.
+The stars looked upon you. Seeming closer than ever before, you tried to reach for them, but they only grew further, scattering like a cloud of fireflies in a forest, and then reassembling themselves back into the wonderful night sky. You felt something. Not anger, no, but rather disappointment. Sadness, even. You followed your dream and where did that lead you? On top of a rooftop of a random house. All your life you wondered if you were destined to be something more, but just like the stars, this dream seemed to be unreachable.
+You got off the roof before heading back home, this time not paying attention to all the beauty this and other streets had to offer, deep in your thoughts. You will get over it and your life will come back to normal. This night, however, shall never be forgotten.
 [/STORY]
 
 
+[INTER]<h2>Community voice</h2>
+<i>"Have you ever experienced back pains? Because we haven't and want to try it! For a small payment of twenty two pounds, you can donate your entire spine for the name of SCIENCE! Just shout "Ouch, my back!" on the street and we will find you whether you want it or not."</i>
+— Local group of nerds
+
+<i>"Come to the local park, I'm sure nothing bad will happen."</i>
+— A shady figure
+
+<i>"Who even runs this newspaper? Like, they publish fictional news and people believe them??? Even a chicken would do a better job at telling the current news."</i>
+— Editor[/INTER]
+
+
 [STORY]
-{Department of Housing Pt. 2}
-The Department of Housing has just announced that the intern, who they have sent to Cross Street in order to count all the houses, has gone missing. They have reported that it is the third one this week, so the numbering process may take a while. The last letter, which they received from him said:
-"Oh god, this labyrinth just keeps on going. How many hours have I been walking? It feels like days. I don't even know where I am, and every time I ask a local, they just shrug their shoulders. Please, I beg you, send help. I have already written several letters to you, which I sent through the only postal office here that has RIDICULOUS prices. I'm exhausted and alone, and I'm about to cry; please God, help me."
-If you see an exhausted, close to death man, who looks like he was once a sane person, then take him home and take care of him, before setting him free into the wilderness of London, where he can finally get back home into the wild world of journalism.
-The Department's spokesman, on the other hand, said that are planning a rescue operation, where they are going to tie another intern to a giant rope, and then sent them onto the Cross Street, and, hopefully, find the missing interns, retrieve all of them, by following the rope. They have named the mission "Operation Breadcrumbs". We will keep you updated on the situation.
+{The house across}
+Have you ever looked out from your window onto the neighbouring house across the street? Have you ever thought that real people, people just like you live there? They have their families, they go to work, they have an existential crisis every now and a while just like you. 
+But today was rather a strange evening. It was dark already, as it is always during winter, and you were eating your dinner, alone in your flat. Your chair was just across the window, so you often saw the house on the other side of your street. You were having your fifth bowl of cereal, when you noticed something unusual. All the windows of the house across were dark. It wouldn't be so strange if it was night, of course, but it was only seven in the evening. Who, in his right mind, would go to bed at seven? And the chances of all of the residents of that dwelling going to bed so early were minuscule.
+You walked towards your window, curious on this rather odd occasion. Then, out of nowhere, as it seemed, a bright light shined through one of the windows. It was blinding, like the surface of the Sun, it hurt your eyes if you looked at it for too long. After that, another window lit up, with the same bright, white light.
+"Aliens?" you thought to yourself, but the thought was rather sarcastic, rather than serious. Yet you considered this possibility. After all, all kind of things happen in this area. It wouldn't be surprising if you neighbours were the first people to establish contact with extraterrestrial life. 
+With a smile on your face from this ridiculous idea, you went back to your supper. Only a few moments went past, when a window, directly across yours, started glowing. However, this time it was with a mysterious and weak, green light, like from radioactive wastes. It was alluring, as if it was looking straight into your soul, calling for you. Saying your name. Whispering into your head.
+You got up and went to the bathroom. You stood in front of the mirror and splashed yourself with cold water. Then, you said to yourself that uncanny lights can not speak, and definitely can't whisper, in your head multiple times before heading back to kitchen. Despite the fact that you finished your meal quite a while ago, you still haven't gone to bed. This puzzling glow didn't let you sleep. Not because it was too bright to sleep, though it was, but because your head was filled with questions. You've lived in this district for years and have seen all kinds of paranormal events, but this one stood out. It was simple and elegant, yet it breathed with mystery.
+By eight o'clock in the evening, a dozen of windows or so were glowing. Most of them shined with bright, white light, which hurt the eyes, but one of them had a green glow.
+By nine, the entire street was covered with light from the apartment block across. Despite this, no one except you was interested in this thing. You couldn't take it anymore, so you quickly grabbed your coat and rushed onto the street. Walking fast, you found yourself in front of the main door of the building in no time. It was difficult to see from all the light, but somehow you managed to find the handle. Just at this moment, everything went dark.
+For a second, you thought that you went blind, but after a while your eyes got used to the darkness that surrounded you. The lights went missing as quickly as they appeared. You tried opening the door, but it was locked. Disappointed, you walked around the building, trying to find another entrance, but your search was unfruitful.
+As you were going back to your flat, you noticed that the regular, yellow light was shining through some of the windows, with figures of people passing by now and again. Maybe this was all a dream?
+"Aliens," you thought to yourself again, but this time not so sarcastically as previously. "Aliens."
 [/STORY]
 
 
-[INTER]"We, at Crossway Print, try to provide you with the freshest, most interesting news from all around the city and the world. But sometimes, gathering the stories and making the headlines is a difficult tasks. That is why we are hiring journalists. Apply now to get a chance of making a career in journalism with one of the best newspapers in London. Your tasks will include:
-<ul>
-<li>Travelling around the city and globe and gathering stories</li>
-<li>Conducting interviews</li>
-<li>Helping around the office</li>
-<li>Putting on protective charms around the office for the night</li>
-<li>Spying on the comptetitors and more</li>
-</ul>Your wages may vary depending on the Sun's position. We only hire once and you can't leave.
-Apply now! Our office is at: Cross street"
-	<span style="text-align:right"><i>— Editor's note</i></span>[/INTER]
+[INTER]<h2>Public Service Announcement</h2>
+Meteorologists warn you that the snow this year is especially deadly, consisting mostly of lost hope and depression. If you start hearing it whispering into your ear as you walk to your job, do not listen to it. Last year may have been bad, but we can make it even worse. With your help of a small donation or volunteerism, we can make this new year so, so much worse than the previous one. Let's work together — for the worse.[/INTER]
 
 
 [STORY]
-{Robbery Pt. 2}
-I went into the shop. The bell didn't ring, as the front door was missing. There, sitting on his chair in front of a desk, was Mr. Milhow, the victim. He looked up at me, as I came up to him.
-"So, you've finally arrived", greeted me Milhow. I nodded. "What can I do to help you?", he asked. I ignored. I walked around the room. Nothing out of place, but what's that? A piece of fur. I took a closer look at it, before picking it up and licking it.
-"WHAT THE HELL ARE YOU DOING?", shouted Mr. Milhow in disgust, but I didn't listen. The fur tasted like feline. Still fresh. I sniffed the air and felt nothing. I came up to a disgusted Mr. Milhow.
-"Do you have a cat?", I asked. He shook his head. I rushed through the missing back door, into the side alley, and saw a dark figure around the corner. I rushed, but, alas, when I got to the corner, they were already gone. I looked at the ground and noticed another piece of fur. I immediately put it in my mouth with a second thought. Feline again. I was following a hot pursuit.
-[/STORY]
+{Powerline of God}
+And as we all made our way onto the street, we saw it. The powerline. The single powerline, running high, high into the sky, beyond the clouds and into the stars. Some were shocked, as to how could such a thing be built in less than an hour. Others were scared, for they knew that this powerline went against all known laws of physics and should collapse on itself soon. But it did not. The single, thick wire, running into the clouds stayed this way for minutes. And then hours. And then days. It's been like that for so long, in fact, that everybody forgot how it appeared here. But its story is much more interesting than you might think.
 
+It was early December when the Ministry of Housing received a complaint, from a previously unknown address. In the letter, the anonymous resident of this dwelling complained about the lack of electricity in his, though old, but cosy house. He says that he has been informed of such invention only a few days ago and was furious about why his house has not been connected to the powergrid yet. Ending the letter was a rather menacing threat, which ran like this: "You better give me such blessings from modern world before I get down to you."
+Obviously, the Ministry ignored such foolish letter, thinking that it was some sort of joke. But it was not a joke, our dear readers, for it was the letter from a god. Not God from capital letter, but just a god. A being, so far from our understanding of the world, that our human eyes can not physically see him.
+The week after, the Ministry of Housing decided to reconsider their decision on this letter, immediately after which the construction began. As they said, "We just decided to do so and no one forced us this choice."
+It is not known how, but not a single resident saw how the powerline was built. It just appeared, an hour after the announcement of the construction was made. The Ministry of Housing refuses to elaborate on the construction process to this day. 
+The story, however, does not end here, for the pole suffered from many more strange occurrences. On one occasion, it was stolen in its entirety. Fortunately, it was retrieved a few weeks later by a miraculous coincidence when the robber was struck by a lightning. Another odd event happened in the summer of last year, when our district suffered from a strong hurricane. Many buildings were either damaged or completely gone and the entire area was left without electricity, apart from that one powerline, which ran into the sky, to the house of a god. No matter what's happening in the world — war, hunger, plague — this pole will stay the same, as it is protected by a holy deity.
+One peculiar organisation, which was formed around this pole and gathers every fortnight, is called Powerline of God. It is a religion, or rather a cult, we would dare to say, which was assembled almost immediately after the powerline was constructed. They wear dark robes and their faces are always cloudy, not metaphorically — their faces are made out of literal fog, and if you look them directly in the eyes, despite their lack of the physical organ, you will faint and find yourself in a dark room, filled to the brim with electric poles. Our advise? Nice people, but avoid at any cost.
 
-[STORY]
-{Department of Housing Pt. 3}
-We've just received a message from the Department of Housing of City of London, updating us on the operation "Breadcrumbs" situation. They have successfully retrieved two of the missing interns. Unfortunately, the third intern was, reportedly, sucked into the sewer system, to never be seen again. May he rest in pieces.
-The two surviving interns described their journey as "purgatory". Here is their story:
-"I knew something was wrong as soon as I stepped onto that godforsaken street. The houses, the lights, everything creeped me out, like someone was constantly watching me. Despite that, I continued on my journey, not knowing that it would be the toughest challenge of my entire life.
-It was easy at first, just counting the houses, that's all. But then it got weird. The crossways started to appear more often, and most of the turns led to a dead end. Some of them seemed to lead back to the beginning, so I quickly got lost. I wasn't sure which houses I counted and which didn't. For a few hours there were people, very nice and friendly, but very useless when it came to questions. No one seemed to know how to get out. They just shrugged their shoulders. One of them asked me if I was new here, to which I nodded, after which the man wished me good luck.
-After a few hours of walking, I started to meet fewer people, which started to get on my nerves. And then, everyone seemed to have vanished. I didn't notice it at first, but then I did. And that was the last drop. I needed to get out of there. I screamed for help and ran around the block, but no one seemed to answer me. After hours of wandering the streets, I saw him. A person. He guided me back to reality."
-"I stepped onto the street and I felt so calm, for some reason. After I overcame the first challenge the street offered and managed to navigate through every crossway, I found myself on a very lush street called Helix Gardens. It was filled with greenery, and I soon walked to a very big park. The feeling of calmness flooded every bit of my body, and I just wanted to lie on the grass and not worry about anything. The entire world felt like some kind of dream.
-I'm not sure how long I was there, but it was already the next morning when a man woke me up. I soon remmebered what happened and agreed to follow him back into the city. My advice, don't let the park sooth you. It's a trap, from which it's very difficult to escape on your own.".
-[/STORY]
-
-
-[STORY]
-{Robbery Pt. 3}
-I quickly made my way through the shop and onto the street. The mysterious man was nowhere in sight, and despite my best efforts to find him, he managed to get away. Even though I've lost a battle, I knew that we will meet together one more time.
-I went back into the shop and told Mr. Milhow the sad news. Poor old man was devastated, but tried to seem optimistic about the situation. He even made a joke, but I didn't laugh. My mind was wandering in the deep corners of my imagination.
-It was already night when I got back to my office. I sat down on my chair. Who was that mysterious man with a fur? If he was the robber, then what was he doing in that alley? Was he listening to our conversation? My head was filled with questions that I was unable to answer. But that wasn't the end of our story, oh, be sure...
+And so, the story of the powerline of god continues and will continue even after we are gone. Even after you are gone. And all of your loved ones. Generations will come and go, but this electric pole will still be intact no matter what. It is a symbol of stability and permanence in our ever changing world.
 [/STORY]
