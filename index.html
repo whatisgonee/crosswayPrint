@@ -6,19 +6,16 @@
 
 	<body>
 		<div id="main">
-			<div id="navbar">
-				<a href="about-us">Who are we?</a>
-				<a href="issues">Archive</a>
-				<a href="help-us">Help wanted</a>
-			</div>
 			<h1 id="header">
 				Crossway Print
 			</h1>
 
-			
+			<button id="layout">Change layout</button>
 		</div>
 
 		<script>
+			var layout = 4
+			
 			var urlParams = new URLSearchParams(window.location.search);
 			
 			fetch(urlParams.get('issue'));
@@ -52,18 +49,28 @@
 
 				html += `<div id="date">${input.match(/\[DATE\]([\s\S]*?)\[\/DATE\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>')}</div>`
 
+				html += `<div id="description">${input.match(/\[DESC\]([\s\S]*?)\[\/DESC\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>')}</div>`
+
 				var stories = input.match(/\[STORY\]([\s\S]*?)\[\/STORY\]/g)
 
 				html += `<div id="columns">`
 
+				interCount = 0
+
+				inters = input.match(/\[INTER\]([\s\S]*?)\[\/INTER\]/g)
+
 				for(let i = 0; i < stories.length; i++) {
-					html += `<h2 class="subheading">${stories[i].match(/{(.*)}/)[1]}</h2><p>${getStory(stories[i])}</p>`
-					if(i == 2) {
-						html += `<div id="intervention">${(input.match(/\[INTER\]([\s\S]*?)\[\/INTER\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>'))}</div>`
+					if(stories[i].match(/{(.*)}/)[1].match("Emergency news")) html += `<h2 class="subheading emergency">${stories[i].match(/{(.*)}/)[1]}</h2><p>${getStory(stories[i])}</p>`
+					else html += `<h2 class="subheading">${stories[i].match(/{(.*)}/)[1]}</h2><p>${getStory(stories[i])}</p>`
+					if((i+1) % 2 == 0 && interCount < inters.length) {
+						html += `<div id="intervention">${inters[interCount].replace(/\[INTER\]/, '').replace(/\[\/INTER\]/, '').replace(/(?:\r\n|\n|\r)/g, '<br>')}</div>`
+						interCount++
 					}
 				}
 
 				html += `</div>`
+				
+				if(input.match(/\[END\]([\s\S]*?)\[\/END\]/)) html += `<div id="ending"><h2 class="subheading">Last words</h2>${input.match(/\[END\]([\s\S]*?)\[\/END\]/)[1].replace(/(?:\r\n|\r|\n)/g, '<br>')}</div>`
 
 				return html
 			}
@@ -76,6 +83,13 @@
 				storyContent = storyContent.join('\n')
 				return storyContent.replace(/(?:\r\n|\r|\n)/g, '<br>')
 			}
+			
+			document.getElementById("layout").addEventListener('click', function() {
+				if(layout > 1) layout -= 1
+				else layout = 4
+
+				document.getElementById("columns").style.columnCount = layout
+			})
 		</script>
 	</body>
 </html>
